@@ -1,0 +1,78 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-omop.js
+inputModule2:
+  class: File
+  path: python/xpersistent-schizophrenia---primary.py
+inputModule3:
+  class: File
+  path: python/schizaffective-schizophrenia---primary.py
+inputModule4:
+  class: File
+  path: python/schizophrenia-hebephrenia---primary.py
+inputModule5:
+  class: File
+  path: python/latent-schizophrenia---primary.py
+inputModule6:
+  class: File
+  path: python/postschizophrenic-schizophrenia---primary.py
+inputModule7:
+  class: File
+  path: python/schizophrenia-subchr---primary.py
+inputModule8:
+  class: File
+  path: python/schizophrenia-xother---primary.py
+inputModule9:
+  class: File
+  path: python/paranoid-schizophrenia---primary.py
+inputModule10:
+  class: File
+  path: python/schizophrenia---primary.py
+inputModule11:
+  class: File
+  path: python/schizophrenia-unspecified---primary.py
+inputModule12:
+  class: File
+  path: python/simple-schizophrenia---primary.py
+inputModule13:
+  class: File
+  path: python/schizophrenia-catetonia---primary.py
+inputModule14:
+  class: File
+  path: python/schizophrenia-remission---primary.py
+inputModule15:
+  class: File
+  path: python/[x]schizophrenia---primary.py
+inputModule16:
+  class: File
+  path: python/schizophrenia-schizotypal---primary.py
+inputModule17:
+  class: File
+  path: python/schizophrenia-depression---primary.py
+inputModule18:
+  class: File
+  path: python/schizophrenia-delusion---primary.py
+inputModule19:
+  class: File
+  path: python/schizophrenia-psychosis---primary.py
+inputModule20:
+  class: File
+  path: python/schizophrenia-paraphrenia---primary.py
+inputModule21:
+  class: File
+  path: python/schizophrenia-state---primary.py
+inputModule22:
+  class: File
+  path: python/residual-schizophrenia---primary.py
+inputModule23:
+  class: File
+  path: python/catatonic-schizophrenia---primary.py
+inputModule24:
+  class: File
+  path: python/schizophrenia-undifferentiated---primary.py
+inputModule25:
+  class: File
+  path: python/depressive-schizophrenia---primary.py
+inputModule26:
+  class: File
+  path: python/output-cases.py
